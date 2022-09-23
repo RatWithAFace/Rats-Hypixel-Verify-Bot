@@ -1,0 +1,6 @@
+{
+	"token": "BOT TOKEN HERE",
+    "clientId": "CLIENT ID HERE",
+    "hypixelKey": "HYPIXEL API KEY HERE (do /api in any lobby)",
+    "memberRole": "MEMBER ROLE ID"
+}
